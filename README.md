@@ -1,5 +1,7 @@
 # elementary-nca
 
+An experiment of a neural cellular automata sequencer using Elementary Audio
+
 References:
 
 https://neuralpatterns.io/
